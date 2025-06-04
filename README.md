@@ -9,6 +9,8 @@
 # API
 ## Add
 * add 사용법
- - add(a, b)
-* sub 사용버
- - sub(a, b)
+  - add(a, b)
+* sub 사용법
+  - sub(a, b)
+* mul 사용법
+  - mul(a, b)
