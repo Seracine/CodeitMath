@@ -7,7 +7,7 @@
   - divide
 
 # API
-## Add
+## Add_Codeit
 * add 사용법
   - add(a, b)
 * sub 사용법
