@@ -8,7 +8,7 @@
 
 # API
 
-## Add_Merged
+## Add_Merged_test
 
 * add 사용법
   - add(a, b)
