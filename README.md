@@ -5,3 +5,8 @@
   - subtract
   - multiply
   - divide
+
+  # API
+  ## Add
+  * add 사용법
+   - add(a, b)
