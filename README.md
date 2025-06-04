@@ -6,7 +6,9 @@
   - multiply
   - divide
 
-  # API
-  ## Add
-  * add 사용법
-   - add(a, b)
+# API
+## Add
+* add 사용법
+ - add(a, b)
+* sub 사용버
+ - sub(a, b)
